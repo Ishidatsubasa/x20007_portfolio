@@ -1,0 +1,34 @@
+
+.anime {
+    padding: 100px;
+    text-align: center;
+}
+.anime > span {
+    font-size: 300px;
+    display: inline-block;
+}
+.anime > span:hover {
+    animation: 2s linear kurukuru infinite;
+}
+@keyframes kurukuru {
+    0% { transform: rotate(0deg); }
+    50% { transform: rotate(-180deg); }
+    100% { transform: rotate(-360deg); }
+}
+.anime1 {
+    padding: 100px;
+    text-align: center;
+}
+.anime1 > span {
+    font-size: 300px;
+    display: inline-block;
+}
+.anime1> span:hover {
+    animation: 2s linear kurukuru infinite;
+}
+@keyframes kurukuru {
+    0% { transform: rotate(0deg); }
+    50% { transform: rotate(-180deg); }
+    100% { transform: rotate(-360deg); }
+}
+  
