@@ -18,7 +18,7 @@
     align-items: center;
     background-image: 
         radial-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0)),
-        url(./image/top1.png);
+        url(./img/hibana.jpeg);
     background-size: cover;
     background-position: center center;
   }
@@ -167,11 +167,11 @@
     margin-bottom: 2rem;
   }
   
-  .performance .performance-sub .performance-item-container .performance-item h4 {
+  .performance  .performance-item-container .performance-item h4 {
     font-size: 1.75rem;
     padding-bottom: 1.5rem;
   }
-  .performance .performance-sub .performance-item-container .performance-item p {
+  .performance  .performance-item-container .performance-item p {
     font-size: 1.25rem;
     line-height: 1.5;
     margin-bottom: 2rem;
@@ -181,7 +181,7 @@
     max-width: calc(100% / 2 - 12px);
     margin-bottom: 1rem;
   }
-  .performance .performance-sub .performance-item-container .performance-item {
+  .performance  .performance-item-container .performance-item {
     width: calc(100% / 2 - 12px);
     max-width: calc(100% / 2 - 12px);
     margin-bottom: 5rem;
